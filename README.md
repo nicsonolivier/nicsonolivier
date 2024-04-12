@@ -1,5 +1,9 @@
 
-### Olá 👋 Meu nome é Nicson Olivier, estou cursando bacharelado em cibersegurança.
+### Olá 👋 Meu nome é Nicson Olivier.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicsonolivier/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicsonolivier/)
+
+![nicsonolivier GitHub stats](https://github-readme-stats.vercel.app/api?username=nicsonolivier&show_icons=true&theme=radical)
 
 ###🌱Atualmente estou cursando um bacharelado em Cybersecurity na Saint Leo Universirty
 
@@ -8,10 +12,6 @@
   <summary>👨‍💻 Sobre mim</summary>
 
 - 💬 Atualmente morando no Rio de Janeiro. Não sou fluente em inglês e tenho conhecimentos de HTML, Python, Javascript, CSS, REACT, redes/TCP/IP, Windows e Linux.   
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicsonolivier/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicsonolivier/)
-
-![nicsonolivier GitHub stats](https://github-readme-stats.vercel.app/api?username=nicsonolivier&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia.
 <div style="display: inline_block">
