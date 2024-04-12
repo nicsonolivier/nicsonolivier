@@ -2,7 +2,6 @@
  Olá 👋 Meu nome é Nicson Olivier.
 
 ![nicsonolivier GitHub stats](https://github-readme-stats.vercel.app/api?username=nicsonolivier&show_icons=true&theme=radical)
-<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicsonolivier&layout=compact&langs_count=16&theme=great-gatsby"/>
 
   <summary>👨‍💻 Sobre mim</summary>
 
