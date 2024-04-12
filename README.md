@@ -1,7 +1,7 @@
 
 ### Olá 👋 Meu nome é Nicson Olivier, estou cursando bacharelado em cibersegurança.
 
-###🌱Atualmente estou cursando um bacharelado em cibersegurança na Saint Leo Universirty
+###🌱Atualmente estou cursando um bacharelado em Cybersecurity na Saint Leo Universirty
 
 🔭 - Estou à procura da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar na área de cibersegurança ou como programador.
 
