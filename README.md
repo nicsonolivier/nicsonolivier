@@ -9,7 +9,8 @@
 
 - 💬 Atualmente morando no Rio de Janeiro.
 - Cursando Cybersecurity na Saint Leo University.
-- Não sou fluente em inglês e tenho conhecimentos de HTML, Python, Javascript, CSS, REACT, redes/TCP/IP, Windows e Linux.
+- Não sou fluente em inglês e tenho conhecimentos de HTML, Python,
+- Javascript, CSS, REACT, redes/TCP/IP, Windows e Linux.
 - 🔭 - Estou à procura da minha primeira oportunidade de emprego. 
 Meu sonho é um dia trabalhar na área de cibersegurança ou como programador.
 
